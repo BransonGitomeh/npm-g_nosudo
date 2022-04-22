@@ -158,4 +158,3 @@ esac
 rm $to_reinstall
 
 printf "\nDone - current package list:\n\n"
-npm -g list -depth=0
